@@ -1,0 +1,12 @@
+Flask
+Flask-Migrate
+babel
+python-dateutil
+virtualenv
+SQLAlchemy
+postgres
+flask-moment
+flask-wtf
+flask_sqlalchemy
+psycopg2
+psycopg2-binary
